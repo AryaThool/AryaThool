@@ -1,33 +1,177 @@
-Hi! My name is Arya Thool
-===================================================================================================================================
+<div align="center">
 
-Computer Science Student × Full Stack Developer
------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Arya%20Thool&fontSize=60&fontColor=0D1117&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C3%97%20AI%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-Dynamic Software Engineer with proven expertise in C++, Python, and JavaScript. Skilled in
+<a href="https://github.com/AryaThool">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%C3%97+AI+Engineer;Building+AST-based+Code+Analysis+Tools;Reinforcement+Learning+%26+NLP+Enthusiast;Next.js+%2B+FastAPI+%2B+PyTorch" alt="Typing SVG" />
+</a>
 
-developing web-based projects and proficient across multiple programming languages. Strong
+<br/>
 
-problem-solving abilities, effective communication, and a collaborative approach to delivering highquality, scalable software solutions in fast-paced environments.
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-7dd3fc?style=for-the-badge&logoColor=0D1117)
 
-* 🌍  I'm based in Nagpur, Maharashtra, India
-* 🖥️  See my portfolio at [Arya Thool Portfolio](http://www.aryathool.in/)
-* ✉️  You can contact me at [aryathool357@gmail.com](mailto:aryathool357@gmail.com)
-* 🧠  I'm currently learning Generative AI
+<br/>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" title="JQuery" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=AryaThool&color=7dd3fc&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/AryaThool?label=Followers&style=for-the-badge&color=7dd3fc)
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/AryaThool" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://aryathool.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="https://www.linkedin.com/in/arya-thool-77a999285" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
+## 🧠 Who I Am
 
-<a href="http://www.github.com/AryaThool"><img src="https://github-readme-stats.vercel.app/api?username=AryaThool&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="AryaThool's GitHub stats" /></a>
+```ts
+const aryaThool = {
+  title: "Full Stack Developer × AI Engineer",
 
-<a href="http://www.github.com/AryaThool"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaThool&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  stack: {
+    languages: ["Python", "C++", "JavaScript", "TypeScript", "Kotlin"],
+    mlAndAI: [
+      "PyTorch (familiar)",
+      "Reinforcement Learning",
+      "Markov Decision Process (MDP)",
+      "NLP",
+      "Rule-Based Systems",
+      "Decision Trees",
+      "AST Parsing",
+      "Hugging Face Transformers",
+    ],
+    webDevelopment: [
+      "Next.js",
+      "React.js",
+      "FastAPI",
+      "Node.js",
+      "REST APIs",
+      "Supabase",
+      "Tailwind CSS",
+      "Radix UI",
+    ],
+    databases: ["MongoDB", "MySQL"],
+    devOpsAndCloud: [
+      "Docker",
+      "Vercel",
+      "GitHub",
+      "Uvicorn",
+      "JWT Authentication",
+      "Row Level Security (RLS)",
+    ],
+    testingAndAPITools: [
+      "pytest",
+      "Pydantic",
+      "JSON Schema",
+      "Judge0 API",
+      "EmailJS",
+      "SMTP",
+    ],
+  },
 
-<a href="https://github.com/AryaThool" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaThool&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  launchedProjects: ["LogicFlow AI", "RegComplianceEnv"],
+
+  certifications: [],
+
+  status: "Open to work",
+
+  openTo: ["Full-time roles", "Full Stack Development", "AI/ML Engineering"],
+} as const;
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🔹 LogicFlow AI
+
+AST-based multi-language code analysis engine with AI-driven logic processing, interactive flowchart visualization, and Judge0 API integration for secure code execution.
+
+| Layer | Technology |
+|---|---|
+| Code Analysis | AST Parsing (multi-language) |
+| Logic Processing | AI-driven rule engine |
+| Execution | Judge0 API (secure code execution) |
+| Visualization | Interactive Flowcharts |
+
+[![Live](https://img.shields.io/badge/Live-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://logicflowai.aryathool.in/)
+
+<br/>
+
+### 🔹 RegComplianceEnv
+
+Multi-tier reward shaping and evaluation system combining keyword, concept-based, and weighted scoring strategies to provide robust feedback for RL agent training.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AryaThool05&repo=reg-compliance-env&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" />
+
+| Layer | Technology |
+|---|---|
+| Environment | Custom Reinforcement Learning Environment |
+| Reward Design | Multi-tier Reward Shaping |
+| Evaluation | Keyword-based Scoring |
+| Evaluation | Concept-based Scoring |
+| Evaluation | Weighted Scoring |
+
+[![Code](https://img.shields.io/badge/Code-7dd3fc?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/AryaThool05/reg-compliance-env.git)
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![](https://skillicons.dev/icons?i=python,cpp,js,ts,kotlin)
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=nextjs,react,tailwind)
+
+**Backend / Infra**
+
+![](https://skillicons.dev/icons?i=nodejs,fastapi,docker)
+
+**Cloud**
+
+![](https://skillicons.dev/icons?i=vercel,github)
+
+**AI / DB**
+
+![](https://skillicons.dev/icons?i=pytorch,mongodb,mysql)
+
+**Dev Tools**
+
+![](https://skillicons.dev/icons?i=git)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AryaThool&show_icons=true&theme=nord&border_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc&title_color=7dd3fc" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaThool&layout=compact&theme=nord&border_color=7dd3fc&text_color=7dd3fc&title_color=7dd3fc" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AryaThool&theme=nord&border=7dd3fc&background=0D1117&ring=7dd3fc&fire=7dd3fc&stroke=7dd3fc" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AryaThool&theme=nord&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaThool&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=0D1117" width="90%" />
+
+</div>
+
+<br/>
+
+## 🔗 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://www.aryathool.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0D1117)](https://linkedin.com/in/arya-thool-77a999285)
+[![X](https://img.shields.io/badge/X-7dd3fc?style=for-the-badge&logo=x&logoColor=0D1117)](https://x.com/ThoolArya)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
