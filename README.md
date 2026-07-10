@@ -12,7 +12,6 @@
 
 <br/>
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0f172a&color=3b82f6&label=Profile%20Views&query=%24.count&url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3DAryaThool%26format%3Djson)
 ![Followers](https://img.shields.io/github/followers/AryaThool?label=Followers&style=for-the-badge&labelColor=0f172a&color=38bdf8)
 
 </div>
